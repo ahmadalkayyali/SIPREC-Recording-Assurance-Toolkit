@@ -1,0 +1,5 @@
+GlobalCallId,RecordingId,RecordingStartTime,RecordingDurationSeconds,RecorderStatus
+GCID-1001,REC-9001,2026-07-07 08:01:13,244,Available
+GCID-1002,REC-9002,2026-07-07 08:05:45,179,Available
+GCID-1004,REC-9004,2026-07-07 08:15:04,309,Available
+GCID-1005,REC-9005,2026-07-07 08:21:56,58,Available
